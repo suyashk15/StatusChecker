@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""OpenAI status monitor using RSS feed with smart HTTP caching."""
-
 import re
 import time
 from datetime import datetime, timezone
